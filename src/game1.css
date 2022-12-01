@@ -1,0 +1,31 @@
+body{
+    margin-top: 200px;
+    padding: auto;
+}
+.btn{
+    background-color: #6d6875;
+    height: 50px;
+    width: 50px;
+    border: none;
+    box-shadow: 2px 2px black;
+    margin: 5px;
+
+}
+.set{
+    background-color: #6d6875;
+    height: 40px;
+    width: 70px;
+    border: none;
+    box-shadow: 2px 2px black;
+    margin-top: 20px;
+    text-align: center;
+    font-weight: 100;
+    font-size: 20px;
+}
+.main{
+    border: 2px solid black;
+    height:auto;
+    width:190px;
+    margin: auto;
+    padding: auto;
+}
